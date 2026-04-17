@@ -138,4 +138,5 @@ label sani:
 
     extend "{i}...No vi nada.{/i}"
     
+    "Sera mejor que vuelva a m"
     return
