@@ -5,5 +5,6 @@ label katy:
     #si estas perdida, usa la documentacion oficial (https://www.renpy.org/doc/html/index.html) o el tutorial dentro de renpy
     #recuerda crear tu propia rama de git para subir el proyecto a github (si necesitan ayuda con eso me dicen)
     #:P
+    "ayer me llamo una niña en medio del desespero"
     return
     
