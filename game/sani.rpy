@@ -4,6 +4,19 @@ define ya = Character ("Yanami", color=("#244377"))
 define hs = Character ("Sosuke", color=("#9B3835"))
 
 label sani:
+    
+    menu testing:
+
+        "Sprite Test":
+            jump yanaspritest
+        "Script Test":
+            jump scripttest
+        
+        
+
+
+label scripttest:
+    
     #intro siscon
 
     "???" "Estoy tan orgullosa de ti,{w=.2} {i}Oniichan.{/i}"
@@ -137,6 +150,15 @@ label sani:
     " "
 
     extend "{i}...No vi nada.{/i}"
+    return
+label yanaspritest:
+    scene test bg
+    show yanatest base
     
-    "Sera mejor que vuelva a m"
+    pause
+    
+    show yanatest uniform
+    
+    pause
+    
     return

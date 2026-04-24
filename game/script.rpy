@@ -2,7 +2,7 @@
 label start:
     
     menu:
-        "¿Quien esta trabajando"
+        "¿Quien esta trabajando?"
         "Sani":
             jump sani
         "Takumi":
