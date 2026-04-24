@@ -154,11 +154,18 @@ label scripttest:
 label yanaspritest:
     scene test bg
     show yanatest base
-    
+
     pause
     
     show yanatest uniform
-    
+
     pause
     
+    show yanatest at left
+
+    pause
+
+    show yanatest at right
+
+    pause
     return
